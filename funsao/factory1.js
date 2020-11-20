@@ -1,0 +1,18 @@
+// factory simpoles
+
+
+
+function criarPessoa (){
+
+    return {
+
+
+        nome:'ana',
+        sobrenome:'Silva'
+    }
+
+}
+
+
+
+console.log(criarPessoa())
